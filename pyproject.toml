@@ -27,7 +27,7 @@ dependencies = [
     "ftfy",
     "dashscope",
     "imageio-ffmpeg",
-    "flash_attn",
+    #"flash_attn",
     "decord",
     "einops",
     "scikit-image",
